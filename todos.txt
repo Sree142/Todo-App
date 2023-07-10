@@ -1,0 +1,6 @@
+hi
+two
+moo
+Clean the room.
+del 1
+Do the laundry
